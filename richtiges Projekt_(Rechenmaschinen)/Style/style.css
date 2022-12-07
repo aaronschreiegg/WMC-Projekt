@@ -43,20 +43,14 @@ a:hover{
   margin: 15px;
   margin-top: 125px;
   background-color: #ffffff;
+  justify-content: center;
   padding: 10px;
 }
 .about{
   color: #333333;
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-left: 160px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.info{
-  color: #333333;
-  padding-top: 0px;
-  padding-bottom: 10px;
-  padding-left: 355px;
+  text-align: center;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .rest{
